@@ -1,0 +1,655 @@
+Symbol|Security Name|Market Category|Status|Test Issue
+ABBB|Auburn Bancorp, Inc. Common Stock|NBB||
+ABQQ|AB INTL GROUP CORP Common|BB|ELIGIBLE|
+ABRW|American Brewing Co., Inc. Common|BB|ACTIVE|
+ABSR|American Business Services Inc. Com|BB|ACTIVE|
+ABVN|ABV CONSULTING INC Common|BB|ACTIVE|
+ACBC|Albina Community Bancorp (OR) Common Stock|NBB||
+ACLZ|Accelerize Inc. Common Stock|BB|ACTIVE|
+ACSX|A.C. Simmonds and Sons Inc. Common Stock|NBB||
+ACTL|Artec Global Media, Inc. Common Stock|BB|ACTIVE|
+ACXA|Accurexa Inc. Common Stock|BB|ACTIVE|
+ADGL|AllDigital Holdings, Inc. Common Stock|NBB||
+ADHH|ADAIAH DISTR INC Common|BB|ACTIVE|
+ADMV|ADAMAS VENTURES INC Common Stock|BB|ACTIVE|
+AERGP|Applied Energetics, Inc. Series A Convertible Preferred Stock|BB|ACTIVE|
+AFBA|Allied First Bancorp, Inc. (Maryland) Common Stock|NBB||
+AFCT|AFC Building Technologies Inc. Common Stock|NBB||
+AFFWD|American Housing Income Trust, Inc. Common Stock|BB|ACTIVE|
+AGIN|American Graphite Technologies Inc. Common Stock|BB|ACTIVE|
+AHDT|Asta Holdings Corp. Common|BB|ACTIVE|
+AIDC|AI Document Services, Inc. Common Stock|NBB||
+AKTS|Akoustis Technologies, Inc. Common Stock|BB|ACTIVE|
+ALAD|Aladdin Intl Inc Common Stock|BB|ACTIVE|
+ALMG|Alamogordo Financial Corp. Common Stock|BB|ACTIVE|
+ALOD|Allied Resources, Inc. Common Stock|NBB||
+AMFC|AMB Financial Corp. Common Stock|BB|ACTIVE|
+AMIB|American Boarding Co. Common Stock|BB|ACTIVE|
+AMRD|American Riding Tours Inc. Common Stock|NBB||
+AMSE|American Sands Energy Corp. Common Stock|NBB||
+ANAV|Alpha Network Alliance Ventures Inc. Com|NBB||
+ANEC|American Natural Energy Corporation|NBB||
+ANPL|Anpulo Food Development, Inc. NEW Common Stock|NBB||
+AOIL|Armada Oil, Inc. Common Stock|NBB||
+APPG|Apptigo International Inc. NEW Common Stock|BB|ACTIVE|
+APPZ|Monster Arts Inc. (NEW) Common Stock|NBB||
+APSI|Aqua Power Systems Inc. Common Stock|BB|ACTIVE|
+APTY|APT Systems Inc. Common Stock|NBB||
+APYV|At Play Vacation Common Stock|BB|ACTIVE|
+ARBJ|Acroboo, Inc. Common|BB|ACTIVE|
+ARENE|America Resources Exploration Inc. Common Stock|BB|ACTIVE|
+ARKI|Arkadia International Common Stock|NBB||
+ARSN|AUREUS INC Common Stock|BB|ACTIVE|
+ARTH|Arch Therapeutics, Inc. Common Stock|BB|ACTIVE|
+ARXQ|ARTEX CORP Common Stock|BB|ACTIVE|
+ASCK|AUSCRETE CORP Common Stock|BB|ACTIVE|
+ASKH|Astika Holdings, Inc. Com|NBB||
+ASPU|Aspen Group Inc. Common Stock|BB|ACTIVE|
+ASTV|As Seen On TV, Inc.  COMMON STOCK|NBB||
+ASXSF|Alberta Star Development Corporation Ordinary Shares (Canada)|NBB||
+ASYP|Asiya Pearls Common Stock|BB|ACTIVE|
+ATAO|Altair International Corp Common Stock|BB|ACTIVE|
+ATLW|Ample-Tee, Inc. Common|BB|ACTIVE|
+ATRK|ASTERIKO CORP Common|BB|ELIGIBLE|
+ATSR|Asia Travel Corporation.  Common Stock|NBB||
+ATVK|Atvrockn Common Stock|BB|ACTIVE|
+ATVM|Active With Me Inc Common Stock|BB|ACTIVE|
+AVDX|Avant Diagnostics, Inc. Common Stock|BB|ACTIVE|
+AVRN|Avra, Inc. Common Stock|NBB||
+AWGI|Ambient Water Corporation|BB|ACTIVE|
+AWSN|ASN TECHNOLOGIES INC Common|BB|ACTIVE|
+AXIM|Axim Biotechnologies, Inc Common Stock|NBB||
+AXMM|Axiom Corp Common Stock|NBB||
+AXTR|Artesanias Corp. Common|NBB||
+AYNT|Anytranslation Corp. Common|BB|ACTIVE|
+BBLS|Rockdale Resources Corporation Common Stock|NBB||
+BBTH|bBooth, Inc. NEW Common Stock|NBB||
+BCYP|Blue Calypso, Inc. Common|NBB||
+BDIC|Blow & Drive Interlock Corp. Common Stock|BB|ELIGIBLE|
+BDPT|Bioadaptives, Inc. Common|BB|ACTIVE|
+BEUT|Science to Consumers, Inc. Common Stock|BB|ACTIVE|
+BFDI|Brekford Corp. Common Stock|BB|ACTIVE|
+BFFI|Ben Franklin Financial, Inc (Maryland)Common Stock|BB|ACTIVE|
+BFXX|BETAFOX CORP Common Stock|BB|ACTIVE|
+BGHM|Bingham Canyon Corporation Common Stock|NBB||
+BIEI|Premier Biomedical Inc Common Stock|NBB||
+BKCT|DTS8 Coffee Company, Ltd. Common|NBB||
+BKRP|Black Rock Petroleum Company Common Stock|BB|ACTIVE|
+BKYM|BLUE SKY MEDIA CORP. Common Stock|BB|ACTIVE|
+BLDZ|Ballroom Dance Fitness Inc Common Stock|BB|ACTIVE|
+BLKE|Bear Lake Recreation, Inc. Common Stock|NBB||
+BLKG|Black Stallion Oil & Gas Inc. NEW Common Stock|NBB||
+BLKIB|Belk, Inc. Class B Common Stock|BB|ACTIVE|
+BLPG|Blue Line Protection Group, Inc. Common Stock|BB|ACTIVE|
+BLUU|Blue Water Global Group, Inc. Common Stock|BB|ACTIVE|
+BLYQ|Bally Corp. Common Stock|BB|ACTIVE|
+BMAQ|Bright Mountain Acquisition Corporation Common Stock|BB|ACTIVE|
+BMRA|Biomerica Inc. Common Stock|NBB||
+BMXCD|BEMAX INC Common stock|BB|ACTIVE|
+BNKL|Bionik Laboratories Corp. Common Stock|BB|ACTIVE|
+BNNP|Bank of Napa NA (CA) Common Stock|BB|ACTIVE|
+BNRM|Band Rep Management, Inc. Common Stock|BB|ACTIVE|
+BPSR|Bespoke Tricyles Inc Common Stock|BB|ACTIVE|
+BRBW|Brunswick Bancorp Common Stock|BB|ACTIVE|
+BRKK|BRK Inc Common Stock|BB|ACTIVE|
+BRPC|Black River Petroleum Corp. Common Stock|NBB||
+BSPA|Ballston Spa Bancorp, Inc. (NY) Common Stock|BB|ACTIVE|
+BSRAF|Besra Gold, Inc. Common Shares (Canada)|NBB||
+BSSP|Bassline Productions, Inc. Common|BB|ACTIVE|
+BTFL|Monarch America, Inc Common Stock . Common Stock|NBB||
+BTHE|Boston Therapeutics Inc Common Stock|NBB||
+BTXI|BTHC X, Inc. Common Stock|BB|ACTIVE|
+BUES|Blue Spa, Inc. Com|BB|ACTIVE|
+BVFL|BV Financial, Inc. (MD) Common Stock|BB|ACTIVE|
+BWPC|Blue Water Petroleum Corp. Common|NBB||
+BXRO|Baixo Relocation Services, Inc Common|BB|ACTIVE|
+CAFN|Cachet Financial Solutions, Inc. Common|BB|ACTIVE|
+CAGZ|Cullen Agricultural Holding Corporation Common Stock|NBB||
+CALVF|Caledonia Mining Corporation Ordinary Shares (Canada)|BB|ACTIVE|
+CAME|ChinAmerica Andy Movie Entertainment Media Co. Common Stock|BB|ACTIVE|
+CAMG|CAM Group, Inc. Common Stock|NBB||
+CANN|Advanced Cannabis Solutions, Inc. Common Stock|NBB||
+CAPP|Capstone Financial Group Inc. Common Stock|NBB||
+CATC|Cambridge Bancorp Common Stock|BB|ACTIVE|
+CATI|Clone Algo Technologies Inc. Common Stock|NBB||
+CATQ|Cataca Resources, Inc. Common Stock|BB|ACTIVE|
+CATS|Catasys Inc. Common Stock|NBB||
+CBBT|Cerebain Biotech Corp.  NEW Common Stock|BB|ACTIVE|
+CBDG|City Media Inc. Com|NBB||
+CBDS|Cannabis Sativa, Inc. Common Stock|NBB||
+CBNT|CABINET GROW INC Common|BB|ELIGIBLE|
+CBTH|Citizens B & T Holdings, Inc. Com|BB|ACTIVE|
+CBWA|Commencement Bank Tacoma Wash Common|BB|ACTIVE|
+CCAN|Canadian Cannabis Corp. Common Stock|NBB||
+CCAQ|Committed Capital Acquisition Corporation II Common Stock|BB|ACTIVE|
+CCAQU|Committed Capital Acquisition Corporation II Units Expiring 2016|BB|ACTIVE|
+CCAQW|Committed Capital Acquisition Corporation II Warrants Expiring 04/16/2019|BB|ACTIVE|
+CDNL|Cardinal Resources, Inc. Common Stock|BB|ACTIVE|
+CDXI|Cardax, Inc. Common Stock|BB|ACTIVE|
+CEGX|Cardinal Energy Group, Inc. Common Stock|BB|ACTIVE|
+CESX|CES Synergies Inc. Common Stock (Nevada)|BB|ACTIVE|
+CETH|China Energy Technology Corp., Ltd. Common Stock|BB|ACTIVE|
+CFSO|Community First Bank Somerset County New Jersey Common Stock|BB|ACTIVE|
+CHAA|Chatand Inc. Com|NBB||
+CHGT|Changing Technologies Inc Common Stock|NBB||
+CHJI|China Changjiang Mining & New Energy Co., LTD. Common Stock|BB|ACTIVE|
+CHND|China Media, Inc. Common Stock|BB|ELIGIBLE|
+CHUM|Chuma Holdings, Inc. Common Stock|BB|ACTIVE|
+CIIX|Chineseinvestors.com Inc Common Stock|BB|ACTIVE|
+CLAD|China Liaoning Dingxu Ecological Agriculture Development, Inc. Common Stock|BB|ACTIVE|
+CLCN|Creative Learning Corp. Common Stock|BB|ACTIVE|
+CLCS|Cell Source, Inc. Common Stock|BB|ACTIVE|
+CLEV|Concrete Leveling Systems Inc. Common Stock|BB|ACTIVE|
+CLSH|CLS Holdings USA, Inc. Common|BB|ACTIVE|
+CMND|Caleminder, Inc. Common Stock|BB|ACTIVE|
+CMPWW|Comerica Incorporated Warrants Expiring 12/12/2018|BB|ACTIVE|
+CMRL|CME Realty, Inc. Common|BB|ACTIVE|
+CMXC|Cell MedX Corp. Common Stock|BB|ACTIVE|
+CNAB|United Cannabis Corporation Common Stock|BB|ACTIVE|
+CNCK|Content Checked Holdings, Inc. Common Stock|BB|ACTIVE|
+COCP|Cocrystal Pharma, Inc. Common Stock|BB|ACTIVE|
+CPAI|Champion Pain Care Corporation Common Stock|BB|ACTIVE|
+CPJT|Cambridge Projects, Inc. Common Stock|BB|ACTIVE|
+CQCQ|MakingORG, Inc.  Stock|BB|ACTIVE|
+CQGU|Oriental Magic Soup, Inc. Common Stock|NBB||
+CRCUF|Canarc Resource Corporation Ordinary Shares (Canada)|BB|ACTIVE|
+CRDW|Crowd Shares AfterMarket, Inc. Common|BB|ACTIVE|
+CRIM|Crimson Forest Entertainment Group Inc. Common Stock|NBB||
+CRMV|Compliance & Risk Management Solutions, Inc. Common Stock|BB|ACTIVE|
+CRSO|Cimarron Medical, Inc. Common|BB|ACTIVE|
+CRVW|Careview Communications, Inc. Common Stock|BB|ACTIVE|
+CSBB|CSB Bancorp, Inc. (Ohio) Common Stock|BB|ACTIVE|
+CSSV|Caspian Services, Inc. Common Stock|BB|ACTIVE|
+CSVN|Cassidy Ventures Inc Common Stock|NBB||
+CUII|China United Insurance Service Inc Common Stock|NBB||
+CUMD|County First Bank (La Plata, MD) Common Stock|NBB||
+CURM|CUR Media, Inc. Common Stock|BB|ACTIVE|
+CVVUF|CanAlaska Uranium Ltd. Ordinary Shares (Canada)|NBB||
+CWBB|Commonwealth Business Bank (CA) Common Stock|BB|ACTIVE|
+CWBK|CommerceWest Bank NA (CA) Common Stock|BB|ACTIVE|
+CWRV|Clearwater Ventures, Inc. Common Stock|NBB||
+CXBL|China Xibolun Technology Holdings Corporation Common Stock|BB|ACTIVE|
+CXEE|China Xuefeng Environmental Engineering, Inc. Common Stock|BB|ACTIVE|
+CYRX|CryoPort, Inc. Common Stock|BB|ACTIVE|
+CZFS|Citizens Financial Services, Inc. Common Stock|BB|ACTIVE|
+CZICF|Canadian Zinc Corporation Ordinary Shares (Canada)|BB|ACTIVE|
+DALP|Dala Petroleum Corp. Common Stock|NBB||
+DCAC|Daniels Corporate Advisory Co Inc Com|BB|ACTIVE|
+DCBF|DCB Financial Corp. Common Stock|BB|ACTIVE|
+DDRT|DanDrit Biotech USA, Inc. Common Stock|BB|ACTIVE|
+DEAC|Elite Data Services Inc. Common Stock|BB|ACTIVE|
+DGDM|Digital Development Partners, Inc.  Common Stock|BB|ACTIVE|
+DGJI|Dragon Jade International Ltd. Common|BB|ACTIVE|
+DIMN|Diamante Minerals, Inc. Common Stock|NBB||
+DLDG|DLD Group Inc. Common Stock|BB|ACTIVE|
+DLPME|Development Capital Group, Inc. Common|BB|ACTIVE|
+DMHI|DMH International, Inc. Common Stock|NBB||
+DPSI|DecisionPoint Systems, Inc. Common Stock|NBB||
+DPWW|Diego Pellicer Worldwide, Inc. Common Stock|BB|ACTIVE|
+DSFN|DSA Financial Corporation Common Stock|NBB||
+EBML|eBullion, Inc. Common|BB|ACTIVE|
+ECHI|eCareer Holdings, Inc. Common Stock|NBB||
+ECRYE|eCrypt Technologies, Inc. Common Stock|BB|ACTIVE|
+EEVR|ELECTRIC VEH RESH CORP Common|BB|ACTIVE|
+EFSH|1847 Holdings, LLC Common Stock|BB|ACTIVE|
+EGDW|Edgewater Bancorp Inc. Common Stock|BB|ACTIVE|
+EHOS|Ehouse Global, Inc. Common Stock|BB|ACTIVE|
+EKSO|Ekso Bionics Holdings, Inc. Common Stock|BB|ACTIVE|
+ELTP|Elite Pharmaceuticals, Inc. Common Stock|NBB||
+ELTZ|Elite Books, Inc. Common Stock|BB|ACTIVE|
+EMIS|Emisphere Technologies, Inc. Common Stock|NBB||
+EMON|eMONEco, Inc. Common Stock|NBB||
+ENCR|Ener-Core, Inc Common Stock|BB|ACTIVE|
+ENIP|Endeavor IP, Inc. Common Stock|BB|ACTIVE|
+ENPT|Enerpulse Technologies, Inc. Common Stock|BB|ACTIVE|
+ENUM|Enumeral Biomedical Holdings, Inc. Common Stock|BB|ACTIVE|
+ENVV|Envoy Group Corp Common Stock|BB|ACTIVE|
+ENZBD|EnzymeBioSystems Common Stock|BB|ACTIVE|
+EOMN|Eye On Media Network, Inc. Common Stock|BB|ACTIVE|
+EOPT|Eos Petro, Inc. Common Stock|NBB||
+ERFB|ERF Wireless, Inc. Common Stock|NBB||
+ESDI|Eastside Distilling, Inc. Common Stock|NBB||
+ETHG|800 Commerce, Inc. Common|BB|ACTIVE|
+EVTI|Eventure Interactive, Inc. Common Stock|BB|ACTIVE|
+EWLU|E-World USA Holdings, Inc. Common Stock|NBB||
+EXEO|Exeo Entmt Inc Common Stock|BB|ACTIVE|
+EXSL|Excelsis Investments Inc. Common Stock|BB|ACTIVE|
+EYEG|Eyegate Pharmaceuticals, Inc. Common Stock|BB|ACTIVE|
+EZJR|EZJR Inc. COMMON STOCK|NBB||
+EZRT|Energizer Tennis, Inc. Com|BB|ACTIVE|
+FARE|World Moto, Inc. Common Stock|BB|ACTIVE|
+FBPI|First Bancorp of Indiana, Inc. Common Stock|BB|ACTIVE|
+FCBS|First Century Bankshares Inc Common Stock|BB|ACTIVE|
+FCNCB|First Citizens BancShares, Inc. Common Stock, Class B|NBB||
+FCUV|Focus Universal, Inc. Common|BB|ACTIVE|
+FDDXD|Federal National Mortgage Association Perp Prfd Secs Ser D 5.25|NBB||
+FDNB|Foundation Bancorp Common Stock|BB|ACTIVE|
+FETM|Fentura Financial inc|BB|ACTIVE|
+FFLO|Free Flow Inc Common Stock|BB|ACTIVE|
+FGBI|First Guaranty Bancshares, Inc. Common Stock|NBB||
+FKYS|First Keystone Corp Common Stock|BB|ACTIVE|
+FLSR|FLASR Inc. Common Stock|NBB||
+FLUG|Flurida Group, Inc. Common Stock|BB|ACTIVE|
+FLXT|Flexpoint Sensor Systems, Inc. Common Stock|NBB||
+FMAO|Farmers & Merchants Bancorp, Inc. (OH) Common Stock|BB|ACTIVE|
+FMCC|Federal Home Loan Mortgage Corporation Common Stock|BB|ACTIVE|
+FMCCG|Federal Home Loan Mortgage Corporation Preferred Stock|BB|ACTIVE|
+FMCCH|Federal Home Loan Mortgage Corporation Preferred Stock|BB|ACTIVE|
+FMCCI|Federal Home Loan Mortgage Corporation Preferred Stock|BB|ACTIVE|
+FMCCJ|Federal Home Loan Mortgage Corporation Preferred Stock|BB|ACTIVE|
+FMCCK|Federal Home Loan Mortgage Corporation Preferred Stock|BB|ACTIVE|
+FMCCL|Federal Home Loan Mortgage Corporation Preferred Stock|BB|ACTIVE|
+FMCCM|Federal Home Loan Mortgage Corporation Preferred Stock|BB|ACTIVE|
+FMCCN|Federal Home Loan Mortgage Corporation Preferred Stock|BB|ACTIVE|
+FMCCO|Federal Home Loan Mortgage Corporation Preferred Stock|BB|ACTIVE|
+FMCCP|Federal Home Loan Mortgage Corporation Preferred Stock|BB|ACTIVE|
+FMCCS|Federal Home Loan Mortgage Corporation Perp Pfd Var Rate|BB|ACTIVE|
+FMCCT|Federal Home Loan Mortgage Corporation Perp Pfd|BB|ACTIVE|
+FMCKI|Federal Home Loan Mortgage Corporation 6.55% Perpetual Preferred Series Y|BB|ACTIVE|
+FMCKJ|Federal Home Loan Mortgage Corporation Fixed-to-Floating Rate Non-Cumulative Perpetual Preferred Stock|BB|ACTIVE|
+FMCKK|Federal Home Loan Mortgage Corporation Preferred Stock|BB|ACTIVE|
+FMCKL|Federal Home Loan Mortgage Corporation 6.02% Non-Cumulative Perpetual Preferred Stock|BB|ACTIVE|
+FMCKM|Federal Home Loan Mortgage Corporation PERP PFD 5.75%|BB|ACTIVE|
+FMCKN|Federal Home Loan Mortgage Corporation Non Cum Perpetual Pfd|BB|ACTIVE|
+FMCKO|Federal Home Loan Mortgage Corporation Perpetual Pfd|BB|ACTIVE|
+FMCKP|Federal Home Loan Mortgage Corporation Federal Home Loan Mortgage Corporation 5.70% Pfd|BB|ACTIVE|
+FMFG|Farmers & Merchants Bank (MD) Common Stock|NBB||
+FNHM|FNBH Bancorp, Inc. (Howell, Michigan) Common Stock|BB|ACTIVE|
+FNMA|Federal National Mortgage Association Common Stock|BB|ACTIVE|
+FNMAG|Federal National Mortgage Association 5.375% Non-Cumulative Pfd Srs I|BB|ACTIVE|
+FNMAH|Federal National Mortgage Association Non Cum Pfd Ser P|BB|ACTIVE|
+FNMAI|Federal National Mortgage Association Non Cum Preferred Series Q|BB|ACTIVE|
+FNMAJ|Federal National Mortgage Association Fannie Mae 7.625% Non-Cumulative Preferred Stock Series R|BB|ACTIVE|
+FNMAK|Federal National Mortgage Association Series N Preferred Stock|BB|ACTIVE|
+FNMAL|Federal National Mortgage Association Preferred Series M|BB|ACTIVE|
+FNMAM|Federal National Mortgage Association Common Stock|BB|ACTIVE|
+FNMAN|Federal National Mortgage Association Pfd Ser L 5.125%|BB|ACTIVE|
+FNMAO|Federal National Mortgage Association Common Stock|BB|ACTIVE|
+FNMAP|Federal National Mortgage Association Preferred Stock|BB|ACTIVE|
+FNMAS|Federal National Mortgage Association Preferred Ser S|BB|ACTIVE|
+FNMAT|Federal National Mortgage Association Pfd Ser T|BB|ACTIVE|
+FNMFM|Federal National Mortgage Association Preferred Series E|NBB||
+FNMFN|Federal National Mortgage Association Pfd Ser O Var Rate|NBB||
+FPET|Freedom Petroleum Inc Common Stock|NBB||
+FRAF|Franklin Financial Services Corporation Common Stock|NBB||
+FREGP|Federal Home Loan Mtg Corp 5.81% Pfd|BB|ACTIVE|
+FREJN|Federal Home Loan Mortgage Corporation Non Cum. Perp. Preferred 5.81%|BB|ACTIVE|
+FREJO|Federal Home Loan Mortgage Corporation Preferred 5.1% Salomon Smith Barney|BB|ACTIVE|
+FREJP|Federal Home Loan Mortgage Corporation 5.30% Pfd|BB|ACTIVE|
+FRMG|FORMIGLI INC Common|BB|ELIGIBLE|
+FRTG|FRONTERA GROUP INC Common stock|BB|ACTIVE|
+FRTR|Fraternity Community Bancorp, Inc Common Stock|BB|ACTIVE|
+FSBC|FSB Community Bankshares, Inc. Common Stock|BB|ACTIVE|
+FSRL|First Reliance Bancshares, Inc. (SC) Common Stock|BB|ACTIVE|
+FSTJ|First America Resources Corporation. Common|BB|ACTIVE|
+FVCB|First Virginia Community Bank Common Stock|BB|ACTIVE|
+FVRG|ForeverGreen Worldwide Corp. Common Stock|NBB||
+FXER|First Xeris Corporation Common Stock|NBB||
+GAHC|Global Arena Holding, Inc. Common Stock|BB|ACTIVE|
+GASEE|GASE Energy, Inc. Common Stock|NBB||
+GCNG|Geo Point Resources Inc Common Stock|BB|ACTIVE|
+GDEE|Golden Edge Entmt Inc Common Stock|BB|ACTIVE|
+GDFI|Goldfields international Inc.  NEW Common Stock|NBB||
+GEIG|GEI Global Energy Corp. Common Stock|NBB||
+GELT|General Agriculture Corporation.  Common Stock|NBB||
+GEQU|Global Equity International Inc Common Stock|BB|ACTIVE|
+GEVNW|Gevo, Inc. WT EXP Date 08/05/2019|NBB||
+GEZC|Go EZ Corporation Common Stock|NBB||
+GHDC|Goldland Holdings Company Common Stock|NBB||
+GJST|GEO JS Tech Group Corp. Common|BB|ACTIVE|
+GLBD|Global Seed Corp Common Stock|NBB||
+GLFH|Galenfeha Inc Common Stock|BB|ACTIVE|
+GLFO|Gulf & Orient Steamship Company, Ltd. Common Stock|NBB||
+GLSO|Glassesoff Inc. Common Stock|BB|ACTIVE|
+GNKWF|Genco Shipping & Trading Limited Warrants Expiring 12/31/2021 (Marshall Islands)|BB|ACTIVE|
+GNUS|Genius Brands International, Inc. Nevada (NEW) Common Stock|NBB||
+GRNQ|Greenpro Capital Corp. Common|BB|ACTIVE|
+GROG|GroGenesis, Inc. Common Stock|NBB||
+GROT|Grote Molen Inc Common Stock|NBB||
+GRSP|Green Supplements Online, Inc. Common|BB|ACTIVE|
+GRST|Greenestone Healthcare Corporation Common Stock|NBB||
+GRWD|Greenwind Nrg, Inc. Com|BB|ACTIVE|
+GSKNF|Genco Shipping & Trading Limited Ordinary Shares New (Marshall Islands)|BB|ACTIVE|
+GTHP|Guided Therapeutics Inc Common Stock|BB|ACTIVE|
+GTPS|Great American Bancorp, Inc. (DE) Common Stock|BB|ACTIVE|
+GTWM|Guate Tourism, Inc. Common Stock|BB|ACTIVE|
+GULD|Gold Hill Resources, Inc. Common Stock|NBB||
+GVFF|Greenville Federal Financial Corp Common Stock|BB|ACTIVE|
+GYTI|Gyrotron Technology Inc Common Stock|BB|ACTIVE|
+HANO|Han Logistics, Inc. Common Stock|BB|ACTIVE|
+HECC|Hydrocarb Energy Corporation. Common Stock|BB|ACTIVE|
+HFBK|Harford Bank (Alberdeen, MD) Common Stock|NBB||
+HIBE|Hibernia Bancorp, Inc. Common Stock|BB|ACTIVE|
+HISP|Hispanica International Delights of America, Inc. Common Stock|NBB||
+HLAN|Heartland Banccorp Common Stock|BB|ACTIVE|
+HLFN|Home Loan Financial Corporation New Common Stock|BB|ACTIVE|
+HLTK|Healthtalk Live Inc Common Stock|BB|ACTIVE|
+HMPQ|Hemp Americana, Inc. Common Stock|NBB||
+HMTF|Home Treasure Finders Inc Common Stock|NBB||
+HMTVW|Hemisphere Media Group, Inc. CL A Wt Exp|BB|ACTIVE|
+HNET|Highlight Networks Inc Common Stock|BB|ACTIVE|
+HOMR|Homie Recipes, Inc. Com|NBB||
+HPCQ|HPC Acquisitions, Inc. Common Stock|BB|ACTIVE|
+HTPN|HOTAPP INTL INC Common|BB|ELIGIBLE|
+HUGE|Massive Interactive, Inc. Common Stock|BB|ACTIVE|
+HUTN|EF Hutton America, Inc. Common Stock|BB|ACTIVE|
+HVCW|Harrison, Vickers & Waterman, Inc. Common Stock|BB|ACTIVE|
+HWKR|Hawker Energy, Inc. Common Stock|NBB||
+IBXM|IBEX Advanced Mortgage Technology, Inc. Com|NBB||
+IDGS|ID Global Solutions Corp. Common Stock|BB|ACTIVE|
+IDOI|IDO Security Inc. Common Stock|NBB||
+IFAN|IFAN Financial, Inc . Common Stock|BB|ACTIVE|
+IHSI|Intelligent Highway Solutions Inc Com|NBB||
+IIBK|Idaho Independent Bank (Coeur d'Alene, ID) Common Stock|NBB||
+IMCL|Immunoclin Corporation Common Stock|NBB||
+IMII|Inception Mining Inc. Common Stock|BB|ACTIVE|
+IMMA|Interactive Multi-Media Auction Corp Common Stock|NBB||
+INIS|International Isotopes Inc. Common Stock|BB|ACTIVE|
+INLL|Intellisense Solutions Inc Common Stock|BB|ACTIVE|
+INLX|Intellinetics, Inc. Common Stock|NBB||
+INQD|INDOOR HARVEST Corp. Common Stock|NBB||
+ITDP|Instride, Inc. Common Stock|NBB||
+ITUP|Interups Inc Common Stock|NBB||
+IVDA|Iveda Solutions, Inc. Common Stock|BB|ACTIVE|
+JAEN|J A Energy Common|BB|ACTIVE|
+JBCT|JOBLOCATIONMAP INC Common|BB|ACTIVE|
+JLLM|Jolley Marketing, Inc. Common Stock|NBB||
+JSHY|Jishanye Inc. Common Stock|BB|ACTIVE|
+JUDO|Classic Rules Judo Championships, Inc. Common Stock|NBB||
+JUVF|Juniata Valley Financial Corp. (PA) Common Stock|BB|ACTIVE|
+KAMX|Kama Resources Inc Common Stock|BB|ACTIVE|
+KDUS|Cadus Corporation Common Stock|BB|ACTIVE|
+KFSYF|Kingsway Financial Services, Inc. Wt Exp Cl B|BB|ACTIVE|
+KGNR|Kange Corp. Common Stock|NBB||
+KNMX|Knowledge Machine International, Inc. NEW Common Stock|BB|ACTIVE|
+KORX|Kore Resources Inc Common Stock|NBB||
+KSBI|KS Bancorp, Inc. (NC) Common Stock|BB|ACTIVE|
+KTDR|Ketdarina Corp. Common|BB|ACTIVE|
+KTLC|KTL Bamboo International Corp. Common|BB|ACTIVE|
+KWIT|Fuhuiyuan International Holdings Ltd Common Stock|BB|ACTIVE|
+KYLK|Key Link Assets Corp. Common Stock|BB|ACTIVE|
+LBCP|Liberty Bancorp, Inc. Common Stock|BB|ACTIVE|
+LEAI|Legacy Education Alliance, Inc. Common Stock|NBB||
+LFGH|LF GEORGE HLDGS INC Common Stock|BB|ACTIVE|
+LGOO|LAGOON GROUP CORP Common Stock|BB|ACTIVE|
+LGYV|LEGACY VENTURES INTL INC Common Stock|BB|ACTIVE|
+LIOC|Lion Consulting Group Inc Common Stock|BB|ACTIVE|
+LKYM|Luckycom, Inc. Common Stock|BB|ACTIVE|
+LNGB|LONGBAU GROUP INC Common|BB|ACTIVE|
+LOLI|Lollipop Corp Common Stock|NBB||
+LPBC|Lincoln Park Bancorp Common Stock|BB|ACTIVE|
+LQMT|Liquidmetal Technologies, Inc. Common Stock|NBB||
+LSOM|Lissome Trade Corp Common|BB|ACTIVE|
+LTDH|Living 3D Holdings, Inc. Common Stock|NBB||
+LTVL|LightTouch Vein & Laser, Inc.  Common Stock|NBB||
+LUAD|Line Up Advertisement Inc Common Stock|BB|ACTIVE|
+LVFZ|LIVE FIT CORP Common Stock|BB|ACTIVE|
+LXRT|Luxurious Travel Corp. Common Stock|BB|ACTIVE|
+LZGI|LZG International Inc Common Stock|NBB||
+MAGE|Magellan Gold Corporation Common Stock|BB|ACTIVE|
+MAVT|Madison Ventures Inc. Com|BB|ACTIVE|
+MAXD|Max Sound Corporation Common Stock|BB|ACTIVE|
+MBCQ|MB Bancorp Common Stock|BB|ACTIVE|
+MBNC|Merchants Bancorp (OR) Common Stock|BB|ACTIVE|
+MCEMD|Monarch Cement Co Common Stock|NBB||
+MCPI|Med-Cannabis Pharma Inc Common Stock|BB|ACTIVE|
+MCTC|MicroChannel Technologies Corporation Common Stock|BB|ACTIVE|
+MCVT|Mill City Ventures III, Ltd. Common Stock|NBB||
+MDCRE|Medicus Homecare Inc.  Common Stock|NBB||
+MDIT|Medite Cancer Diagnostics, Inc. Common Stock|BB|ACTIVE|
+MDNB|Minden Bancorp, Inc. (Louisiana) Common Stock|BB|ACTIVE|
+MDURP|MDU Resources Group Inc 4.50% Preferred Stock|BB|ACTIVE|
+MFDB|Mutual Federal Bancorp, Inc. (IL) Common Stock|BB|ACTIVE|
+MGGI|Magicstem Group Corp Common Stock|BB|ACTIVE|
+MJMJ|The MaryJane Group, Inc. Common Stock|NBB||
+MJPI|MJP International Ltd Common Stock|BB|ACTIVE|
+MJTK|CannaSys, Inc. Common Stock|NBB||
+MLCGD|ML Capital Group Inc Common Stock|BB|ACTIVE|
+MLES|Mint Leasing, Inc (The) Common Stock|BB|ACTIVE|
+MLSOD|HashingSpace Corp. Common Stock|BB|ACTIVE|
+MMEG|Momentous Entertainment Group Inc. Common Stock|BB|ELIGIBLE|
+MMMS|Medytox Solutions, Inc. Common|BB|ACTIVE|
+MMTIF|Micromem Technologies, Inc. Ordinary Shares (Canada)|NBB||
+MOBO|Mobile Lads Corporation.Common Stock|BB|ACTIVE|
+MOST|MobileSmith, Inc. Common Stock|BB|ACTIVE|
+MOXC|Moxian China, Inc. Common Stock|BB|ACTIVE|
+MPGS|Malaysia Pro-Guardians Security Management Corporation Common Stock|NBB||
+MRIC|MRI Interventions Inc Common Stock|BB|ACTIVE|
+MRJT|3D MAKERJET INC Common|BB|ACTIVE|
+MRXC|Mirax Corp. Common Stock|BB|ACTIVE|
+MTCP|Merecot Corporation Common Stock|NBB||
+MTGB|Meetinghouse Bancorp Inc. Com|BB|ACTIVE|
+MWBC|MW Bancorp, Inc. Common Stock|NBB||
+MXMG|Maxima Group, Inc. Common Stock|BB|ACTIVE|
+MYDX|MyDx, Inc. Common Stock|BB|ACTIVE|
+MYRY|Myriad Interactive Media, Inc. Common Stock|NBB||
+MZEI|Medizone International, Inc. Common Stock|BB|ACTIVE|
+NACG|NAC Global Technologies, Inc. Common Stock|NBB||
+NAOV|NanoVibronix, Inc. Common|BB|ACTIVE|
+NCBS|Nicolet Bankshares Inc. Com|BB|ACTIVE|
+NEMD|iNeedMD Holdings, Inc. Common Stock|BB|ACTIVE|
+NEPH|Nephros, Inc.  Common Stock|BB|ACTIVE|
+NGHT|NightCulture, Inc. Common Stock|BB|ACTIVE|
+NGTF|NIGHTFOOD HLDGS INC Common Stock|BB|ACTIVE|
+NHLE|Nhale Inc. Common Share|BB|ACTIVE|
+NIDB|Northeast Indiana Bancorp, Inc. Common Stock|BB|ACTIVE|
+NLRT|NOGALES RES CORP Common Stock|BB|ACTIVE|
+NMRD|Nemaura Medical, Inc. Common Stock|BB|ACTIVE|
+NMUS|Nemus Bioscience, Inc. Common Stock|NBB||
+NODB|North Dallas Bank & Trust Co Tex Common Stock|BB|ACTIVE|
+NPWZ|Neah Power Systems, Inc. New Common Stock|BB|ACTIVE|
+NSBC|North State Bancorp (NC) Common Stock|BB|ACTIVE|
+NUGN|NuGene International, Inc. Common Stock|BB|ACTIVE|
+NUIN|Nutrastar International Inc. Common Stock|BB|ACTIVE|
+NUMD|Nu-Med Plus Inc. Com|NBB||
+NUUU|Rejuvel Bio-Sciences, Inc. Corp Common Stock|BB|ACTIVE|
+NUVI|Emo Capital Corp. Common Stock|BB|ACTIVE|
+NUZE|Nuzee, Inc. Common Stock|BB|ACTIVE|
+NWIN|Northwest Indiana Bancorp Common Stock|BB|ACTIVE|
+NWMH|National Waste Management Holdings, Inc. Common Stock|BB|ACTIVE|
+OAKO|Oakridge International Corporation Common Stock|BB|ACTIVE|
+OCEL|Ocean Electric, Inc. Common Stock|NBB||
+OCLL|OCULUS INC Common Stock|BB|ACTIVE|
+OGES|Oakridge Global Energy Solutions, Inc. Common Stock|NBB||
+OMBP|Omni Bio Pharmaceutical, Inc. Common Stock|NBB||
+OMCM|OmniComm Systems, Inc. Common Stock|BB|ACTIVE|
+OMGB|Omega Brands Inc. NEW Common Stock|BB|ACTIVE|
+ONFAD|One 4 Art Limited Common Stock|BB|ACTIVE|
+ONLI|Online Redefined Inc Common Stock|NBB||
+OPBL|Optionable, Inc. Common Stock|NBB||
+ORCT|Orckit Communications Ltd.|NBB||
+ORNC|Oranco Inc Common Stock|BB|ACTIVE|
+OROE|Oro East Mining Inc Common Stock|BB|ACTIVE|
+OSCY|Online Secretary, Inc. Common Stock|NBB||
+OTTW|Ottawa Savings Bancorp, Inc. (IL) Common Stock|BB|ACTIVE|
+OXCR|Oaxaca Resources Corp. Common Stock|BB|ACTIVE|
+PAOC|Pan Ocean Container Supplies Ltd.  Common Stock|BB|ACTIVE|
+PATD|Patapsco Bancorp Inc Common Stock|BB|ACTIVE|
+PBCO|Peoples Bank of Commerce (Medford, OR) Common Stock|NBB||
+PBFI|Patriot Berry Farms, Inc. Common Stock|NBB||
+PCFTF|Pacific Therapeutics Limited Common Shares (Canada)|NBB||
+PCHA|PowerMedChairs Common Stock|NBB||
+PGCG|Prime Global Capital Group Incorporated .  Common Stock|BB|ACTIVE|
+PGEC|Prestige Capital Corporation Common Stock|NBB||
+PGSC|Progressive Green Solutions, Inc. NEW Common Stock|BB|ACTIVE|
+PKAY|Peekay Boutiques, Inc. Common Stock|BB|ACTIVE|
+PKGM|Pocket Games, Inc. Common|BB|ACTIVE|
+PKKC|Pack Fuerte, Inc. Common Stock|BB|ACTIVE|
+PLFX|Pulse Evolution Corporation. Common Stock|NBB||
+PLRM|Pilgrim Bancshares, Inc. Common Stock|BB|ACTIVE|
+PLWR|Power Gala Corp. Common|NBB||
+PMCM|Primco Management, Inc. Common Stock|NBB||
+PMXO|PMX Communities Inc Common Stock|BB|ACTIVE|
+PPCQ|Premier Pacific Construction, Inc. Common Stock|BB|ACTIVE|
+PPTG|Property Management Corporation of America Common Stock|BB|ACTIVE|
+PRGB|Protea Biosciences Group Inc Common Stock|BB|ACTIVE|
+PRKI|Perk Intl Inc Common Stock|BB|ACTIVE|
+PRKO|Perkins Oil and Gas Inc. Common Stock|BB|ACTIVE|
+PROM|Propel Media, Inc. Common Stock|BB|ACTIVE|
+PROP|Propell Technologies Group, Inc. Common Stock|BB|ACTIVE|
+PRPI|Perpetual Inds Inc Common Stock|BB|ACTIVE|
+PSBQ|PSB Holdings, Inc. (Wisconsin) Common Stock|BB|ACTIVE|
+PSNP|Preston Corporation Common Stock|NBB||
+PSSS|Puissant Industries, Inc. Common Stock|NBB||
+PSTO|Powerstorm Capital Corporation Common Stock|NBB||
+PTOO|Pitooey!, Inc. Common Stock|NBB||
+PTPF|All Marketing Solutions Inc. Common Stock|BB|ACTIVE|
+PTQMF|Petaquilla Minerals Ltd. Ordinary Shares (Canada)|BB|ACTIVE|
+PTRC|Petro River Oil Corp. Common Shares (Delaware)|BB|ACTIVE|
+PUBCD|PureBase Corporation Common Stock|BB|ACTIVE|
+PUGB|Puget Sound Bank (WA) Common Stock|BB|ACTIVE|
+PWDY|Powerdyne International, Inc. Com|BB|ACTIVE|
+PWEB|Pacific Webworks,Inc. Common Stock|NBB||
+PWRV|Power of the Dream Ventures, Inc. Common Stock|BB|ACTIVE|
+PWVI|PowerVerde, Inc. Common Stock|NBB||
+QNTC|Quintec Corp. Common Stock|BB|ELIGIBLE|
+QRRY|Quarry City Savings and Loan Association Common Stock|BB|ACTIVE|
+QSIM|QuantumSphere, Inc Common Stock|NBB||
+QSMG|QUEST MGMT INC Common|BB|ELIGIBLE|
+QUOR|Quorum Corporation Common Stock|NBB||
+RCAR|RenovaCare, Inc. Common Stock|BB|ACTIVE|
+RCGP|Radiant Creations Group, Inc. (The) Common Stock|BB|ACTIVE|
+RCHA|Rich Pharmaceuticals, Inc. Common Stock|BB|ACTIVE|
+RDLA|Redstone Literary Agents Inc Common Stock|BB|ACTIVE|
+REACD|Real Estate Contacts Inc.  Common Stock|BB|ACTIVE|
+REBL|Rebel Group, Inc. Common Stock|BB|ACTIVE|
+REMI|Remedent, Inc. Common Stock|NBB||
+RGBP|Regen Biopharma, Inc. Common|BB|ACTIVE|
+RILY|B. Riley Financial, Inc. Common Stock|BB|ACTIVE|
+RLQT|Realco Intl Inc Common Stock|BB|ACTIVE|
+RMLS|Romulus Corp. Common|BB|ACTIVE|
+RMRI|RMR Industrials, Inc. Common Stock|BB|ACTIVE|
+ROII|ROI Land Investments Ltd. Common|BB|ACTIVE|
+RPBIF|Response Biomedical Corp. Ordinary Shares (Canada)|BB|ACTIVE|
+RPPG|RERAISE GAMING CORP Common Stock|BB|ACTIVE|
+RSSV|Resort Savers, Inc. Common Stock|NBB||
+RTAS|REDtone Asia, Inc.  Common Stock|NBB||
+RVEN|Reven Housing REIT, Inc. Common Stock|BB|ACTIVE|
+RXSF|RX Safes, Inc. Common Stock|BB|ACTIVE|
+RYBH|Royal Bakery Holdings, Inc Common Stock|BB|ACTIVE|
+RYFL|Royal Financial, Inc. Common Stock|NBB||
+SBID|Symbid Corp. Common Stock|BB|ACTIVE|
+SCIO|Scio Diamond Technology, Corp. Common|BB|ACTIVE|
+SCYT|Security Bancorp, Inc. (TN) Common Stock|BB|ACTIVE|
+SDRG|Silver Dragon Resources Inc. Common Stock|NBB||
+SECT|Sector 5, Inc. Com|BB|ACTIVE|
+SELT|Select-TV-Solutions, Inc. NEW Common Stock|NBB||
+SFHI|Sports Field Holdings, Inc. Com|NBB||
+SGBH|Grand China Energy Group Limited Common Shares (Canada)|NBB||
+SGNI|StemGen, Inc. Common Stock|BB|ACTIVE|
+SGRB|SigmaBroadband Co. Common|BB|ACTIVE|
+SHGT|Success Holding Group International, Inc. Common Stock|BB|ACTIVE|
+SIAF|Sino Agro Food Inc Common Stock|BB|ACTIVE|
+SIGL|Signal Advance, Inc. Common Stock|BB|ACTIVE|
+SIHC|Safco Investment Holding Corp. Common Stock|NBB||
+SITO|SITO Mobile, Ltd. Common Stock|BB|ACTIVE|
+SKIN|Skinovation Pharm Inc Common Stock|NBB||
+SKKB|Stark Naked Bobbers Common Stock|BB|ACTIVE|
+SKKY|Skkynet Cloud Systems Inc Common Stock|BB|ACTIVE|
+SKSK|Skookum Safety Solutions Corp. Common Stock|BB|ACTIVE|
+SLNN|Saleen Automotive, Inc. Common Stock|BB|ACTIVE|
+SLNR|Sealand Natural Resources Inc. Common Stock|NBB||
+SLOTD|San Lotus Holding Inc. Com|NBB||
+SLTN|Silverton Energy, Inc. Common Stock|BB|ACTIVE|
+SMAK|Smack Sportswear Common Stock|BB|ACTIVE|
+SMDM|Singing Machine Company, Inc. (The) Common Stock|NBB||
+SMFI|Smoofi, Inc. Common|BB|ACTIVE|
+SMQA|SMSA Ballinger Acquisition Corp Common Stock|BB|ACTIVE|
+SNGX|Soligenix, Inc. Common Stock|BB|ACTIVE|
+SNNC|Sibannac, Inc. Common Stock|NBB||
+SNNY|Sunnyside Bancorp Inc Common Stock|BB|ACTIVE|
+SNTW|SUMMIT NETWORKS INC Common Stock|BB|ACTIVE|
+SNWV|SANUWAVE Health, Inc. Common Stock|NBB||
+SNYR|Synergy Strips Corp. Common Stock|BB|ACTIVE|
+SOUL|Soul and Vibe Interactive Inc. Common Stock|BB|ACTIVE|
+SPNI|Sputnik Enterprises, Inc. Common Stock|NBB||
+SPRZ|Spriza, Inc. Common Stock|NBB||
+SSNT|SilverSun Technologies, Inc. Common Stock|BB|ACTIVE|
+STAF|Staffing 360 Solutions, Inc. Common Stock|BB|ACTIVE|
+STCC|Sterling Consolidated Corporation Common Stock|NBB||
+STFK|Starflick.com Common Stock|BB|ACTIVE|
+STOY|Spiral Toys Inc. Common Stock|BB|ACTIVE|
+STVI|Snap Interactive, Inc.|BB|ACTIVE|
+STWC|Strainwise, Inc.  Common Stock|NBB||
+STYA|Satya Worldwide Inc. Common Stock|BB|ACTIVE|
+SUGR|Sugar Creek Financial Corp. Common Stock|BB|ACTIVE|
+SUND|Sundance Strategies Inc. Common Stock|NBB||
+SVON|Sevion Therapeutics, Inc.  Common Stock|BB|ACTIVE|
+SVTZ|Smart Server, Inc. Common|BB|ACTIVE|
+SWEE|SweeGen, Inc. Common Stock|BB|ACTIVE|
+SWFR|Swift Start Corp Common Stock|BB|ACTIVE|
+SYTE|Sitestar Corporation Common Stock|BB|ACTIVE|
+SYYF|I In The Sky, Inc. Common|BB|ACTIVE|
+TALR|Talon Real Estate Holding Corp. Common Stock|NBB||
+TAYO|Taylor Consulting Inc Common Stock|NBB||
+TCKF|Tomichi Creek Outfitters Common Stock|BB|ACTIVE|
+TCNT|TOUCAN INTERACTIVE CORP Common  Stock|BB|ACTIVE|
+TDCB|Third Century Bancorp Common Stock|BB|ACTIVE|
+TESTF|Test Issuer Warrant|BB|ACTIVE|Y
+TESTT|Test Issuer Warrant|BB|ACTIVE|Y
+TESTX|Test Issuer Warrant|BB|ACTIVE|Y
+THGS|TOA Holdings, Inc. Common Stock|BB|ACTIVE|
+TIGY|Tiger Jiujiang Mining Inc Common Stock|BB|ACTIVE|
+TLCC|Twinlab Consolidated Holdings, Inc. Common|BB|ACTIVE|
+TLLT|TELEHEALTHCARE INC Common|BB|ELIGIBLE|
+TNRG|Thunder Energies Corp. Common Stock|BB|ACTIVE|
+TNTY|Trunity Holdings, Inc. Common Stock|NBB||
+TPHX|Tanaris Power Holdings Inc. Common Stock|NBB||
+TPNL|3Pea International, Inc. Common Stock|BB|ACTIVE|
+TQBY|TABACALERAYSIDRON Common Stock|BB|ACTIVE|
+TRFX|TERAFOX CORP Common Stock|BB|ACTIVE|
+TRKK|Orbital Tracking Corp. Common Stock|BB|ACTIVE|
+TRPO|Tropic International, Inc. Common Stock|BB|ACTIVE|
+TRVX|Triumph Ventures Corp. Common Stock|NBB||
+TRYV|TECH FDRY VENTURES INC Common Stock|BB|ACTIVE|
+TSGL|The Staffing Group Ltd. Common Stock|BB|ACTIVE|
+TSTS|That Marketing Solution, Inc. NEW Com|NBB||
+TTHX|Train Travel Holdings, Inc.  Common Stock|BB|ACTIVE|
+TXFX|Tixfi, Inc. Common|BB|ACTIVE|
+TXJK|TEXAS JACK OIL & GAS CORP Common Stock|BB|ACTIVE|
+TXSP|TAXUS PHARMACEUTICALS HLDGS INC Common|BB|ELIGIBLE|
+TYBT|Trinity Bank, N.A. (TX) Common Stock|BB|ACTIVE|
+UAGZ|UA Granite Corp Common Stock|BB|ACTIVE|
+UASB|United American Svgs Bk Pittsburgh PA Common|NBB||
+UBIQ|Ubiquity Inc. Common Stock|NBB||
+UBLI|UBL Interactive, Inc. Common Stock|BB|ACTIVE|
+UCLE|US NUCLEAR CORP Common stock|BB|ACTIVE|
+ULNV|Uni Line Corp. Common Stock|NBB||
+UOIP|UnifiedOnline, Inc Common Stock|BB|ACTIVE|
+UPNT|Uplift Nutrition, Inc Common Stock|NBB||
+USBL|United States Basketball League, Inc. Common Stock|BB|ACTIVE|
+USDF|US-Dadi Fertilizer Ind Intl Inc. Common Stock|BB|ACTIVE|
+UTMRE|Ultimate Rack Inc. Com|NBB||
+VAPO|Vaporin Inc. Common Stock|NBB||
+VEND|Fresh Healthy Vending International, Inc.|BB|ACTIVE|
+VERF|Versailles Financial Corporation Common Stock|BB|ACTIVE|
+VICA|HCi VioCare.  Common Stock|NBB||
+VMRI|Valmie Res Inc Common Stock|BB|ACTIVE|
+VOIL|Virtus Oil and Gas Corp. Common|BB|ACTIVE|
+VOPA|Vopia, Inc. Common Stock|BB|ACTIVE|
+VPIG|Virtual Piggy, Inc. Common Stock|BB|ACTIVE|
+VRTT|VIATAR CTC SOLUTIONS INC Common Stock|BB|ACTIVE|
+VSYM|View Systems, Inc. Common Stock|BB|ACTIVE|
+WASM|Westmountain Company. Common Stock|BB|ACTIVE|
+WEIN|West End Indiana Bancshares Inc Common Stock|NBB||
+WETM|Westmountain Alternative Energy, Inc. Common Stock|BB|ACTIVE|
+WGTG|Wings & Things Inc Common Stock|NBB||
+WHHT|Wonhe High-Tech International, Inc. Common Stock|BB|ACTIVE|
+WINH|Winha International Group Ltd. Common|NBB||
+WIZD|Wizard World, Inc. Common Stock|BB|ACTIVE|
+WMAL|Worlds Mall, Inc. Common Stock|BB|ACTIVE|
+WMDS|WestMountain Distressed Debt, Inc. Common Stock|BB|ACTIVE|
+WMPN|William Penn Bancorp, Inc. Common Stock|NBB||
+WMTN|Westmountain Gold, Inc Common Stock|BB|ACTIVE|
+WNSS|WNS STUDIOS INC Common Stock|BB|ACTIVE|
+WRMT|World Media & Technology Corp. Common Stock|BB|ACTIVE|
+WWIO|Wowio Inc Common Stock|NBB||
+WWRB|WeWearables, Inc., Common|BB|ACTIVE|
+XELB|Xcel Brands, Inc. Common Stock|BB|ACTIVE|
+XREG|XR Energy Inc Common Stock|NBB||
+XSPY|Spy Inc. Common Stock|BB|ACTIVE|
+YEWB|Yew Bio-Pharm Group Inc Common|BB|ACTIVE|
+ZFLO|Zlato Inc Common Stock|BB|ACTIVE|
+ZOSN|Zosano, Inc. NEW Common Stock|BB|ACTIVE|
+ZZZZQ|Super Montage Test Security ZZZZQ Test Security|BB|ACTIVE|Y
+File Creation Time: 0707201515:41||||
