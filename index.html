@@ -34,21 +34,35 @@
       <section id="main_content" class="inner">
         <h3>Stock ticker symbol lookup</h3>
         
+        <p>Enter a partial company name to find stock ticker symbols:</p>
+        
           <div>
             <input class="typeahead-symbols typeahead form-control" type="text" placeholder="Stock ticker symbols">
           </div>
-<p>This automatic page generator is the easiest way to create beautiful pages for all of your projects. Author your page content here <a href="https://guides.github.com/features/mastering-markdown/">using GitHub Flavored Markdown</a>, select a template crafted by a designer, and publish. After your page is generated, you can check out the new <code>gh-pages</code> branch locally. If you’re using GitHub Desktop, simply sync your repository and you’ll see the new branch.</p>
+
 
         <h3>Company name lookup</h3>
+        
+        <p>Enter a partial ticker symbol to find company names:</p>
+        
           <div>
             <input class="typeahead-names typeahead form-control" type="text" placeholder="Company names">
           </div>
-<h3>
-<a id="authors-and-contributors" class="anchor" href="#authors-and-contributors" aria-hidden="true"><span class="octicon octicon-link"></span></a>Authors and Contributors</h3>
 
-<p>You can <a href="https://github.com/blog/821" class="user-mention">@mention</a> a GitHub username to generate a link to their profile. The resulting <code>&lt;a&gt;</code> element will link to the contributor’s GitHub Profile. For example: In 2007, Chris Wanstrath (<a href="https://github.com/defunkt" class="user-mention">@defunkt</a>), PJ Hyett (<a href="https://github.com/pjhyett" class="user-mention">@pjhyett</a>), and Tom Preston-Werner (<a href="https://github.com/mojombo" class="user-mention">@mojombo</a>) founded GitHub.</p>
-
-
+          <h3>Code example</h3>
+          <p>Here is an example using twitter typeahead. The library provides 2 functions, symbol and suggest, which return either ticker symbols or company names. The functions return an array of objects with name and symbol properties. In the example, lodash is used to prune the results down to either just the symbol or just the name.</p>
+          <pre>
+            $('.typeahead-symbols').typeahead({
+              hint: true,
+              highlight: true,
+              minLength: 1
+            }, {
+              name: 'symbols',
+              source: function(query, callback) {
+                callback(_.map(ticker.symbol(query), 'symbol'));
+              }
+            });
+          </pre>
 
       </section>
     </div>
