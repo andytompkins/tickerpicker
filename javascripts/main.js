@@ -7,7 +7,9 @@ $('.typeahead-symbols').typeahead({
 }, {
   name: 'symbols',
   source: function(query, callback) {
-    callback(_.map(ticker.symbol(query), 'symbol'));
+    callback(_.map(ticker.symbol(query), function(n) {
+      return n.symbol + '   ' + n.name;
+    }));
   }
 });
 
@@ -18,6 +20,8 @@ $('.typeahead-names').typeahead({
 }, {
   name: 'companies',
   source: function(query, callback) {
-    callback(_.map(ticker.suggest(query), 'name'));
+    callback(_.map(ticker.suggest(query), function(n) {
+      return n.name + ' (' + n.symbol + ')';
+    }));
   }
 });
