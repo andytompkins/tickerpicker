@@ -7,6 +7,17 @@ $('.typeahead-symbols').typeahead({
 }, {
   name: 'symbols',
   source: function(query, callback) {
-    callback(ticker.symbol(query));
+    callback(_map(ticker.symbol(query), 'symbol'));
   }
-})
+});
+
+$('.typeahead-names').typeahead({
+  hint: true,
+  highlight: true,
+  minLength: 1
+}, {
+  name: 'companies',
+  source: function(query, callback) {
+    callback(_map(ticker.suggest(query), 'name'));
+  }
+});
