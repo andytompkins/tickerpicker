@@ -1,0 +1,37 @@
+{
+  "name": "tickerpicker",
+  "version": "0.0.1",
+  "description": "stock/company name suggestions",
+  "main": "dist/tickerpicker.js",
+  "scripts": {
+    "generate": "node csv/generate.js",
+    "build": "webpack",
+    "test": "mocha -R spec -u bdd test/tickerpicker.spec.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/andytompkins/tickerpicker.git"
+  },
+  "license": "Apache-2.0",
+  "keywords": [
+    "amex",
+    "nasdaq",
+    "nyse",
+    "stock",
+    "ticker",
+    "symbol"
+  ],
+  "author": "andytompkins <andy.tompkins@gmail.com> (github.com/andytompkins)",
+  "devDependencies": {
+    "babel-core": "^6.1.4",
+    "babel-loader": "^6.1.0",
+    "babel-preset-es2015": "^6.1.4",
+    "chai": "^3.4.1",
+    "csv": "^0.4.6",
+    "mocha": "^2.3.4",
+    "webpack": "^1.12.4"
+  },
+  "dependencies": {
+    "lodash": "^3.10.1"
+  }
+}
