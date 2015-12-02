@@ -79,7 +79,7 @@ csv.parse(allLines, function(err, data) {
       for (var i = 1; i < data.length; i++) {
         var recArr = data[i];
         var n = recArr[1];
-        var s = recArr[0];
+        var s = recArr[0].substring(1); // bug in csv parser? it adds a comma before the first field
         if (!n || !s) { continue; }
         if (n) { n = n.trim(); }
         if (s) { s = s.trim(); }
